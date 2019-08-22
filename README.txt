@@ -1,5 +1,4 @@
 Collin Lloyd
-CPSC 3600
 Project 1 "Intro to Python"
 
 So, my design was for main to get in data from a user through a while loop while have a try except clause to check if the user entered CTRL+C to stop
